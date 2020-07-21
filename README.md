@@ -1,2 +1,11 @@
-# small_DS_projects
-This repository stocks the small data science projects with small datasets
+# Small DS projects
+
+This repository stocks some data science projects with small datasets
+
+## DL
+
+- [x] abalone
+
+## ML
+
+- [x] bank customer
